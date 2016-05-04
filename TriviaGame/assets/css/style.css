@@ -1,0 +1,77 @@
+body {
+    background-image: url("../images/Jordan.jpg");
+    font-size: 24px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+	margin-left: 20px;
+}
+head {
+	width: 100%;
+}
+section {
+	width: 100%;
+}
+#logo {
+	width: 500px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#show-number {
+    text-align: center;
+    margin-top: 20px;
+}
+.container1{
+	text-align: center;
+	font-weight: bold;
+	width: 400px;
+	height: 30px;
+	background-color: #CC3333;	
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+	margin: auto;
+	padding-bottom: 5px;
+	margin-top: 15px;
+}
+.question, .result {
+	text-align: center;
+	padding-top: 15px;
+}
+.answerList {
+	padding-top: 10px;
+}
+.answer {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.highlight-yellow
+{	
+	margin: auto;
+	text-align: center;
+	width: 200px;
+	color: black;
+	background-color:#FFD700;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+ 
+#ex5 { 
+ opacity: 0.8;
+ border: 10px solid #eee;
+
+ -webkit-transition: all 0.5s ease;
+ -moz-transition: all 0.5s ease;
+ -o-transition: all 0.5s ease;
+ 
+} 
+#ex5:hover {  
+   opacity: 1;
+
+  -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+  -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+  box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+} 
+
+
